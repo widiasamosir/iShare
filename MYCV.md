@@ -5,15 +5,7 @@
 # Widia Angelina's CV
 ---
 # [Quotes]
-<table>
-  <tr>
-    <th>Display Picture</th>
-  <tr>
-    <td>
-        <img src="https://www.mercurynews.com/wp-content/uploads/2017/09/jolie_2.jpg?raw=true" width="300"/>
-    </td>
-</table>
-
+<img src="Widia Angelina.jpg" width="100"/>
 ## HELLO!
 ### I am Widia Angelina Samosir.
 Telecommunication Engineering Undergraduate Student, Institut Teknologi Bandung (ITB)
